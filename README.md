@@ -4,3 +4,7 @@ This is my professional portfolio. It uses AWS and ReactJS.
 Chocolatey
 Git and github
 SSH keygen, add and others
+HTML
+CSS
+Font Awesome
+Google Fonts
